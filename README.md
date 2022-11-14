@@ -29,5 +29,12 @@ therefore, we can make a new improvement to our commentary
 ![image](https://user-images.githubusercontent.com/40399697/201698658-af504336-287e-469a-85dd-309dd758994c.png)
 
 
+**3- Apply the OIR Rule**
+
+Observation, Impact and request.
+
+![image](https://user-images.githubusercontent.com/40399697/201700514-13dce626-9452-4a5c-93ef-5ea5dbd01cf0.png)
+
+
 
 https://app.pluralsight.com/course-player?clipId=a5c1ad9a-9646-4f3c-b367-8cffeb3a465d
