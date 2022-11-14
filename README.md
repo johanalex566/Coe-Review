@@ -35,6 +35,11 @@ Observation, Impact and request.
 
 ![image](https://user-images.githubusercontent.com/40399697/201700514-13dce626-9452-4a5c-93ef-5ea5dbd01cf0.png)
 
+So with this in mind, we can now make a major improvement to the initial example.
+
+First, wr theow out, "What were you thinking?" entirely. It's not helping in any way 
+
+![image](https://user-images.githubusercontent.com/40399697/201701638-0b27a893-ece5-4daa-8d50-4113a1d30940.png)
 
 
 https://app.pluralsight.com/course-player?clipId=a5c1ad9a-9646-4f3c-b367-8cffeb3a465d
