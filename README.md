@@ -47,5 +47,17 @@ First, wr theow out, "What were you thinking?" entirely. It's not helping in any
 
 ![image](https://user-images.githubusercontent.com/40399697/201702550-db1eef3c-c8a3-4ab6-81c4-ff822ad31a30.png)
 
+**5 - Don't try yo fix everything**
+
+![image](https://user-images.githubusercontent.com/40399697/201703320-7a1c56f8-8c7d-4fbd-99ad-a15d36f75a36.png)
+
+
+**6 - Offer sincere praise**
+
+![image](https://user-images.githubusercontent.com/40399697/201704364-137250b5-f21f-4c74-b5bd-becd35604581.png)
+
+![image](https://user-images.githubusercontent.com/40399697/201704639-e2abfa2a-1e73-4a57-88b2-ed17f462a568.png)
+
+
 
 https://app.pluralsight.com/course-player?clipId=a5c1ad9a-9646-4f3c-b367-8cffeb3a465d
