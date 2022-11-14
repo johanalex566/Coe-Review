@@ -17,5 +17,14 @@ With this we can start to improve our first example of bad feedback.
 
 ![image](https://user-images.githubusercontent.com/40399697/201696729-d8e34f8e-4eaa-4660-970d-0c3fe033246d.png)
 
+**2- Never say "You"**
+It is easier to accept feedback on the code.
+
+After all, you're directing your comments at an objective thing, not the author.
+
+![image](https://user-images.githubusercontent.com/40399697/201697964-fa8fc9f4-db0e-44cb-be36-d60c6e41197a.png)
+
+
+
 
 https://app.pluralsight.com/course-player?clipId=a5c1ad9a-9646-4f3c-b367-8cffeb3a465d
