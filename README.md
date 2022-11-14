@@ -59,5 +59,10 @@ First, wr theow out, "What were you thinking?" entirely. It's not helping in any
 ![image](https://user-images.githubusercontent.com/40399697/201704639-e2abfa2a-1e73-4a57-88b2-ed17f462a568.png)
 
 
+**SUMMARY**
+
+![image](https://user-images.githubusercontent.com/40399697/201705911-f2fb2d52-7733-4f46-a204-0dcab2c27596.png)
+
+
 
 https://app.pluralsight.com/course-player?clipId=a5c1ad9a-9646-4f3c-b367-8cffeb3a465d
