@@ -24,6 +24,9 @@ After all, you're directing your comments at an objective thing, not the author.
 
 ![image](https://user-images.githubusercontent.com/40399697/201697964-fa8fc9f4-db0e-44cb-be36-d60c6e41197a.png)
 
+therefore, we can make a new improvement to our commentary
+
+![image](https://user-images.githubusercontent.com/40399697/201698658-af504336-287e-469a-85dd-309dd758994c.png)
 
 
 
