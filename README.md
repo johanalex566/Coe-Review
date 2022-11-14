@@ -39,7 +39,7 @@ So with this in mind, we can now make a major improvement to the initial example
 
 First, wr theow out, "What were you thinking?" entirely. It's not helping in any way 
 
-![image](https://user-images.githubusercontent.com/40399697/201701638-0b27a893-ece5-4daa-8d50-4113a1d30940.png)
+![image](https://user-images.githubusercontent.com/40399697/201701852-0b3e4d46-ee59-4f9d-8832-c0b379a48d13.png)
 
 
 https://app.pluralsight.com/course-player?clipId=a5c1ad9a-9646-4f3c-b367-8cffeb3a465d
