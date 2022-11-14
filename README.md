@@ -41,5 +41,11 @@ First, wr theow out, "What were you thinking?" entirely. It's not helping in any
 
 ![image](https://user-images.githubusercontent.com/40399697/201701852-0b3e4d46-ee59-4f9d-8832-c0b379a48d13.png)
 
+**4- Help with Code Examples**
+
+![image](https://user-images.githubusercontent.com/40399697/201702172-4cd73381-0ba0-46a1-abcd-cda487f419be.png)
+
+![image](https://user-images.githubusercontent.com/40399697/201702550-db1eef3c-c8a3-4ab6-81c4-ff822ad31a30.png)
+
 
 https://app.pluralsight.com/course-player?clipId=a5c1ad9a-9646-4f3c-b367-8cffeb3a465d
